@@ -4,7 +4,8 @@ ol {
 
 body {
     font-family: sans-serif, arial, verdana;
-    background-image: url("background.PNG");
+/*     background-image: url("background.PNG"); */
+    background-color: lightblue;
 }
 
 h1 {
